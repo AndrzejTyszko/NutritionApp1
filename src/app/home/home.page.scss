@@ -1,0 +1,44 @@
+.ion-padding {
+  padding: 16px;
+}
+
+ion-button {
+  margin: 10px 0;
+  --padding-start: 10px;
+  --padding-end: 10px;
+  --border-radius: 8px;
+}
+
+.table-responsive {
+  overflow-x: auto;
+}
+
+.nutrition-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+.nutrition-table th, .nutrition-table td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: center;
+}
+
+.nutrition-table th {
+  background-color: #4caf50;
+  color: white;
+}
+
+.nutrition-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.nutrition-table tr:hover {
+  background-color: #ddd;
+}
+
+.nutrition-table th.total, .nutrition-table td.total {
+  font-weight: bold;
+  background-color: #81c784;
+}

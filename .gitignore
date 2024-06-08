@@ -1,0 +1,77 @@
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+*~
+*.sw[mnpcod]
+.tmp
+*.tmp
+*.tmp.*
+UserInterfaceState.xcuserstate
+$RECYCLE.BIN/
+
+*.log
+log.txt
+
+
+/.sourcemaps
+/.versions
+/coverage
+
+# Ionic
+/.ionic
+/www
+/platforms
+/plugins
+
+# Compiled output
+/dist
+/tmp
+/out-tsc
+/bazel-out
+
+# Node
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+
+# Miscellaneous
+/.angular
+/.angular/cache
+.sass-cache/
+/.nx
+/.nx/cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+/typings
+
+# System files
+.DS_Store
+Thumbs.db
+/.vs/NutritionApp/FileContentIndex/ce02a950-a806-4530-b659-8b6df6aef0a0.vsidx
+/.vs/NutritionApp/FileContentIndex/03a51e40-1738-4de6-8084-bca67ba922d8.vsidx
+/.vs/NutritionApp/FileContentIndex/b380872b-0580-4d49-8c5b-39d62f2c4417.vsidx
+/.vs/NutritionApp/FileContentIndex/32dd3bf3-107c-4621-8831-46d6cc50feff.vsidx
+/.vs/NutritionApp/FileContentIndex/023cafc8-2b3b-4769-876b-4491984a407a.vsidx
+/.vs/NutritionApp/FileContentIndex/dd4b9228-bef3-475e-ae34-e300e82d802e.vsidx
+*.vsidx
