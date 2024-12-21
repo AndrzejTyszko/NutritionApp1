@@ -2,7 +2,9 @@
 
 ## 📝 Opis projektu
 
-NutritionApp1 to nowoczesna aplikacja mobilna zaprojektowana w celu ułatwienia zarządzania dietą i śledzenia wartości odżywczych. 🥗 Dzięki intuicyjnemu interfejsowi użytkownik może monitorować swoje dzienne spożycie kalorii oraz makroskładników takich jak białka, tłuszcze i węglowodany. 🎯 Aplikacja jest idealna zarówno dla osób dbających o zdrowie, jak i dla profesjonalnych dietetyków.
+NutritionApp1 to nowoczesna aplikacja mobilna zaprojektowana w celu ułatwienia zarządzania dietą i śledzenia wartości odżywczych. 
+- 🥗 Dzięki intuicyjnemu interfejsowi użytkownik może monitorować swoje dzienne spożycie kalorii oraz makroskładników takich jak białka, tłuszcze i węglowodany. 
+- 🎯 Aplikacja jest idealna zarówno dla osób dbających o zdrowie, jak i dla profesjonalnych dietetyków.
 
 ---
 
